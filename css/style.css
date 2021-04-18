@@ -1,0 +1,306 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+em {
+    margin-bottom: 90px;
+}
+
+a {
+    color: lightgrey;
+    font-style: italic;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    letter-spacing: 10px;
+}
+
+header div.name h3 {
+    font-size: 1.5rem;
+    color: lightgray;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 30px;
+    background-color: #373D48;
+    color: white;
+}
+
+.header-about div p {
+    margin: 10px 0;
+}
+
+header div.name {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+div.name h3 {
+    font-weight: 400;
+}
+
+header strong {
+    margin-right: 30px;
+    color: black;
+}
+
+main {
+    padding: 10px 30px;
+    text-align: justify;
+    line-height: 35px;
+}
+
+article.skills .header-content-skills,
+article.software .header-content-skills {
+    line-height: 20px;
+}
+
+h5 {
+    letter-spacing: 1px;
+}
+
+h2.heading {
+    color: #373D48;
+    border-bottom: 2px solid #373D48;
+}
+
+main section {
+    margin: 30px 0 10px 0;
+}
+
+main div.header-content {
+    display: flex;
+    margin: 10px 0;
+}
+
+div.header-content div.duration {
+    width: 15%;
+}
+
+div.header-content div.heading-content-description {
+    width: 85%;
+}
+
+div.header-content .interests {
+    display: flex;
+    justify-content: space-between;
+}
+
+.interests div {
+    width: 40%;
+    text-align: justify;
+}
+
+div.work-history-info {
+    display: flex;
+}
+
+div.work-history-info>div {
+    margin: 0 5px;
+}
+
+i.fa-dot-circle {
+    font-size: 0.8rem;
+}
+
+.progress-bar-container {
+    height: 12px;
+    background-color: lightgray;
+    border-radius: 10px;
+}
+
+.progress-bar {
+    border-radius: 10px 0 0 10px;
+    background-color: #373D48;
+    height: 12px;
+}
+
+.hundred-percent {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.eighty-percent {
+    width: 80%;
+}
+
+.sixty-percent {
+    width: 60%;
+}
+
+.progress-bar-container-overall {
+    width: 30%;
+    padding: 7px 0 5px 0;
+}
+
+.header-content-skills {
+    margin: 10px 0;
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+div.skills {
+    width: 50%;
+}
+
+div.progress-bar-container-overall p {
+    text-align: right;
+    font-size: smaller;
+    font-style: italic;
+}
+
+
+/* .skill-name {
+    width: 70%;
+}
+
+div.skills {
+    width: 80%;
+}
+
+.duration {
+    width: 20%;
+} */
+
+div.skills {
+    display: flex;
+    justify-content: space-between;
+    /* width: 100%; */
+}
+
+
+/* div.skill-name {
+    display: inline-block;
+} */
+
+
+/* div.skills {
+    display: flex;
+} */
+
+
+/* main {
+    padding: 20px 30px;
+    text-align: justify;
+}
+
+h2.heading {
+    color: #373D48;
+    margin: 30px 0 10px 0;
+    border-bottom: 1px solid #373D48;
+    padding: 3px 0;
+}
+
+main .heading-content {
+    display: flex;
+    flex-direction: row;
+}
+
+.heading-content-description,
+.skills {
+    width: 80%;
+}
+
+main .heading-content div.duration {
+    width: 20%;
+}
+
+i.fa-dot-circle {
+    font-size: 0.8rem;
+}
+
+div.work-history-info {
+    display: flex;
+}
+
+div.work-history-info>div {
+    margin: 0 5px;
+}
+
+.fa-dot-circle {
+    color: lightgray;
+}
+
+main h3 {
+    color: gray;
+}
+
+.progress-bar-container-overall {
+    width: 100%;
+    float: right;
+}
+
+.progress-bar-container {
+    height: 12px;
+    background-color: lightgray;
+    border-radius: 10px;
+}
+
+.progress-bar {
+    border-radius: 10px 0 0 10px;
+    background-color: #373D48;
+    height: 12px;
+}
+
+.hundred-percent {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.eighty-percent {
+    width: 80%;
+}
+
+.sixty-percent {
+    width: 60%;
+}
+
+.forty-percent {
+    width: 40%;
+}
+
+.skill {
+    display: flex;
+    justify-content: space-between;
+}
+
+table {
+    width: 100%;
+}
+
+td {
+    padding-bottom: 10px;
+}
+
+td:nth-of-type(1) {
+    margin-left: 20%;
+}
+
+td:nth-of-type(2) {
+    padding: 10px;
+}
+
+tr {
+    border-bottom: 1px solid grey;
+    padding: 100px;
+    vertical-align: top;
+}
+
+table:nth-of-type(2) td:nth-of-type(1) {
+    padding-right: 60%;
+} */
