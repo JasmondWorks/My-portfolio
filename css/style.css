@@ -90,11 +90,11 @@ main div.header-content {
 }
 
 div.header-content div.duration {
-    width: 15%;
+    width: 25%;
 }
 
 div.header-content div.heading-content-description {
-    width: 85%;
+    width: 50%;
 }
 
 div.header-content .interests {
